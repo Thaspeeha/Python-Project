@@ -75,14 +75,7 @@ A draw (all spaces filled)
 
 After the result, players can choose to play again.
 
-📸 Sample Output
-
-Current board:
-  |   |  
----------
-  |   |  
----------
-  |   |  
+📸 Sample Output 
 
 Player X, enter your move as row and column (e.g. 1 2): 1 1
 ...
