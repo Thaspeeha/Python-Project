@@ -14,10 +14,6 @@ Play against the computer in multiple rounds, with score tracking and input vali
 
 ## 📂 Project Structure
 
-Run Game
-
-python rps_game.py
-
 🧠 Game Rules
 
 Rock beats Scissors
