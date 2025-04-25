@@ -37,3 +37,57 @@ Computer chose: scissors
 You win this round!
 
 Score => You: 1, Computer: 0
+
+# 🕹️ Tic Tac Toe – Python Console Game
+
+A classic two-player **Tic Tac Toe** game in the terminal, written in Python.  
+Players take turns placing their symbol (`X` or `O`) on a 3×3 grid, aiming to get three in a row — horizontally, vertically, or diagonally.
+
+---
+
+## 📦 Features
+
+- Two-player turn-based gameplay
+- Input validation (no overwriting or invalid entries)
+- Win and draw detection
+- Option to play again after a match
+- Fully commented and beginner-friendly code
+
+---
+
+## 📂 Project Structure
+
+Run Game
+
+python tic_tac_toe.py
+
+🎮 Game Instructions
+The game starts with Player X.
+
+Each player will be prompted to enter a move in the format:
+row column (e.g., 1 3 for top-right corner).
+
+The game checks for:
+
+A win (3 in a row, column, or diagonal)
+
+A draw (all spaces filled)
+
+After the result, players can choose to play again.
+
+📸 Sample Output
+
+Current board:
+  |   |  
+---------
+  |   |  
+---------
+  |   |  
+
+Player X, enter your move as row and column (e.g. 1 2): 1 1
+...
+Player O wins!
+Do you want to play again? (y/n):
+
+
+
