@@ -78,9 +78,9 @@ Player X, enter your move as row and column (e.g. 1 2): 1 1
 Player O wins!
 Do you want to play again? (y/n):
 
-## 🚀 Launch in GitHub Codespaces
+## 🚀 Launch in GitHub Codespaces or Visual Studio Code
 
-[![Open Thaspeeha's AI-Chatbot in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=Python-Project/Python-Game-Consoles&devcontainer_path=.devcontainer/devcontainer.json)
+
 
 
 
