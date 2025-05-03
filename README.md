@@ -80,7 +80,7 @@ Do you want to play again? (y/n):
 
 ## 🚀 Launch in GitHub Codespaces
 
-[![Open Thaspeeha's AI-Chatbot in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=Python-Project/AI-Chatbot&devcontainer_path=.devcontainer/devcontainer.json)
+[![Open Thaspeeha's AI-Chatbot in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?repo=Python-Project/Python-Game-Consoles&devcontainer_path=.devcontainer/devcontainer.json)
 
 
 
