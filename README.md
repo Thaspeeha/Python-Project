@@ -78,6 +78,10 @@ Player X, enter your move as row and column (e.g. 1 2): 1 1
 Player O wins!
 Do you want to play again? (y/n):
 
+## 📝 License
+
+This project was developed for educational purposes and is not intended for commercial deployment without further development.
+
 ## 🚀 Launch in GitHub Codespaces or Visual Studio Code
 
 
