@@ -56,16 +56,16 @@ Run Game
 python tic_tac_toe.py
 
 🎮 Game Instructions
-The game starts with Player X.
+- The game starts with Player X.
 
-Each player will be prompted to enter a move in the format:
+- Each player will be prompted to enter a move in the format:
 row column (e.g., 1 3 for top-right corner).
 
 The game checks for:
 
-A win (3 in a row, column, or diagonal)
+- A win (3 in a row, column, or diagonal)
 
-A draw (all spaces filled)
+- A draw (all spaces filled)
 
 After the result, players can choose to play again.
 
