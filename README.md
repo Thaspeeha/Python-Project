@@ -78,6 +78,10 @@ Player X, enter your move as row and column (e.g. 1 2): 1 1
 Player O wins!
 Do you want to play again? (y/n):
 
+## 🚀 My Certificate
+
+[![Certificate](https://img.shields.io/badge/Nezuware-Certificate-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaspeeha-vahithu-a139b627a/details/certifications/1746135579539/single-media-viewer/?profileId=ACoAAEQitS8B9Zd9iJzEX1DtzEumSWLNC8Z3hxw)
+
 ## 📝 License
 
 This project was developed for educational purposes and is not intended for commercial deployment without further development.
