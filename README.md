@@ -39,7 +39,6 @@ Score => You: 1, Computer: 0
 A classic two-player **Tic Tac Toe** game in the terminal, written in Python.  
 Players take turns placing their symbol (`X` or `O`) on a 3×3 grid, aiming to get three in a row — horizontally, vertically, or diagonally.
 
----
 
 ## 📦 Features
 
@@ -49,7 +48,6 @@ Players take turns placing their symbol (`X` or `O`) on a 3×3 grid, aiming to g
 - Option to play again after a match
 - Fully commented and beginner-friendly code
 
----
 
 ## 📂 Project Structure
 
